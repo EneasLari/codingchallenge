@@ -5,7 +5,7 @@ Countries API : [Git Repo](https://github.com/trevorblades/countries)
 
 An application used to fetch countries and informations about them from an open API, built with React, GraphQL(Apollo), JavaScript(JSX) and Bootstrap(Bootswatch)
 
-This project is a part of a coding challenge. This React web app utilizes the [Countries](https://countries.trevorblades.com/) public API with GraphQL implementation. 
+This project is a part of a coding challenge. This React web app utilizes the [Countries](https://countries.trevorblades.com/) public API(GraphQL implementation). 
 
 The home page of app renders all countries of a continent which by default is Africa.
 You can select different continent from a dropdown list to view countries of it, the app stores locally the last continent that the user selected. 
