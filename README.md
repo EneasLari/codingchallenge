@@ -9,7 +9,9 @@ This project is a part of a coding challenge. This React web app utilizes the [C
 
 The home page of app renders all countries of a continent which by default is Africa.
 You can select different continent from a dropdown list to view countries of it, the app stores locally the last continent that the user selected. 
+
 For every country the app shows on the screen, there is an image of the flag of country. The flag is being fetched by [flagcdn](https://flagcdn.com/ "flagcdn")  using the country code. Also the capital, continent ,currency  phone , languages and native name are the viewed informations.
+
 Clicking on a country will fetch the wikipedia article from wikipedia API and display it on a React Component.
 The user can view all countries to the screen by selecting the All Countries from navigation bar.  
 
