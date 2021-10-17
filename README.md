@@ -21,7 +21,7 @@ The user can view all countries to the screen by selecting the All Countries fro
 
 1) Clone down this repository. You will need `node` , `npm` and `yarn` installed globally on your machine.  
 
-2) Install all dependencies by runing :
+2) Install all dependencies by running :
 
 ### `yarn install`
 
