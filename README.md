@@ -14,7 +14,7 @@ Clicking on a country will fetch the wikipedia article from wikipedia API and di
 The user can view all countries to the screen by selecting the All Countries from navigation bar.  
 
 ## App Screen Shot
-[![imagetitle](imageaddress.com "imagetitle")](linktoimage.com "imagetitle")
+[![imagetitle](https://github.com/EneasLari/codingchallenge/blob/main/screenshot1.PNG "ScreenShot")](https://github.com/EneasLari/codingchallenge/blob/main/screenshot1.PNG "ScreenShot")
 
 
 ## Installation and Setup Instructions
@@ -23,7 +23,7 @@ The user can view all countries to the screen by selecting the All Countries fro
 
 2) Install all dependencies by runing :
 
-###`yarn install`
+### `yarn install`
 
 3) After that you can run the available scripts:
 
