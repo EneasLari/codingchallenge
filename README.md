@@ -27,7 +27,7 @@ The user can view all countries to the screen by selecting the All Countries fro
 
 3) After that you can run the available scripts:
 
-###Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
