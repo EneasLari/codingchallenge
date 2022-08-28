@@ -70,7 +70,7 @@ You can view a live demo of this poject :
 [Live Demo](https://codingchallenge-thechatshop.herokuapp.com/ "Live")
  
 
-#### Packages used for this project:  
+## Packages used for this project:  
 - React 
 - GraphQL
 - Axios
